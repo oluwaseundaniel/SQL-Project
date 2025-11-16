@@ -1,2 +1,2 @@
 # SQL-Project
-This SQl project a chain of Ecommerce data
+This SQl project is about a chain of Ecommerce data
